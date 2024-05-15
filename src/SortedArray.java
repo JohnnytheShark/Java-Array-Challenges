@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Random;
 
-public class Main {
+public class SortedArray {
     public static void main(String[] args){
         int[] unsortedArray = getRandomArray(5);
         System.out.println(Arrays.toString(unsortedArray));
